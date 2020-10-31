@@ -16,7 +16,7 @@ public class SimpleSingleton {
         return INSTANCE;
     }
 
-    public Integer getCounter() {
+    public Integer getValue() {
         return counter;
     }
 
